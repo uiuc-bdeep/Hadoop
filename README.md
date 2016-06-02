@@ -1,3 +1,4 @@
 # Hadoop
 Including P2P and P2Polygon
-:D
+
+The code with append "_point" means point to point, and without means point to polygon.
